@@ -1,0 +1,25 @@
+body {
+    background-color:antiquewhite;
+}
+
+h1 {
+    display: flex;
+    font-size: 30px;
+    color: black ;
+    border: 5px solid black;
+    border-color: black;
+    border-radius: 20px;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+#box {
+    display: flex;
+    height: 30px;
+    font-size: 20px;
+}
+
+ul {
+    font-size: 20px;
+}
